@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # first-meet-react
 =======
 # Description
